@@ -1,4 +1,4 @@
-package com.zradnoty.jpmsdemo.jpmsdemo.web.auth;
+package com.zradnoty.jpmsdemo.web.pojo;
 
 public class Credentials {
     

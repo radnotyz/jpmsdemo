@@ -1,4 +1,4 @@
-package com.zradnoty.jpmsdemo.jpmsdemo.auth;
+package com.zradnoty.jpmsdemo.auth;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
